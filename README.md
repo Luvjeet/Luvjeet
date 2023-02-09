@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luvjeet Singh</h1>
 <h3 align="center">Passionate for learning and growing.</h3>
 
--   🌱 I’m currently learning **React.js and Figma**
+-   🌱 I’m currently learning **Django**
 
 -   👨‍💻 All of my projects are available at [https://github.com/Luvjeet?tab=repositories](https://github.com/Luvjeet?tab=repositories)
 
