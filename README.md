@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luvjeet Singh</h1>
-<h3 align="center">Passionate for learning and growing.</h3>
+<h3 align="center">Rust is just better!</h3>
 
--   🌱 I’m currently learning **Django**
+-   🌱 I’m currently learning **RUST**
 
 -   👨‍💻 All of my projects are available at [https://github.com/Luvjeet?tab=repositories](https://github.com/Luvjeet?tab=repositories)
 
