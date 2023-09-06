@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lovejeets98@gmail.com**
 
-- 📄 Know about my experiences [Click Here]([https://drive.google.com/file/d/1wf25JRITe4GuSW7GMnyiFSKFq76XCHXb/view?usp=sharing](https://drive.google.com/file/d/1CWOwXhLXwFUBL-Cab_ac_RQ-uuB728jC/view))
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1CWOwXhLXwFUBL-Cab_ac_RQ-uuB728jC/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
